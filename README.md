@@ -1,3 +1,5 @@
+> Reality is merly an illusion, albeit a very persistent one.  
+> _Albert Einstein_
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Srivijayaraghav-S/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

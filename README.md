@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hi There!
+## This is my portfolio.
+### I am currently using this to publish my case study for my Google Data Analytics Professional Certificate Capstone Project.
 
 - Bulleted
 - List
